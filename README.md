@@ -1,2 +1,2 @@
 # github-fork
-Hello, i'm username. This is readme from upstream repository
+Hello, i'm btatest. This is readme from fork repository
